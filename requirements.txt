@@ -1,0 +1,10 @@
+streamlit
+tensorflow
+torch
+transformers
+sacremoses
+sentencepiece
+
+spacy>=3.0.0,<3.1.0
+spacy-streamlit>=1.0.0rc1,<1.1.0
+https://github.com/explosion/spacy-models/releases/download/ru_core_news_sm-3.0.0/ru_core_news_sm-3.0.0-py3-none-any.whl#egg=ru_core_news_sm==3.0.0
