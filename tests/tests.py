@@ -42,18 +42,21 @@ class TestTextSummaryService(unittest.TestCase):
         self.text_summary_service = TextSummaryService()
 
     def test_handle_returns_correct_results(self):
-        #Arrange
+        # Arrange
         self.text_summary_service.translator = MagicMock()
         self.text_summary_service.summarizer = MagicMock()
 
-        self.text_summary_service.translator.ru_en.return_value = "Test English text"
-        self.text_summary_service.summarizer.summarize.return_value = "Test summary"
-        self.text_summary_service.translator.en_ru.return_value = "Тестовый конспект"
+        self.text_summary_service.translator.ru_en.return_value = \
+            "Test English text"
+        self.text_summary_service.summarizer.summarize.return_value = \
+            "Test summary"
+        self.text_summary_service.translator.en_ru.return_value = \
+            "Тестовый конспект"
 
-        #Act
-        ru_summary = self.text_summary_service.handle("Тестовый текст", useV2=False)
-        
-        #Assert
+        # Act
+        ru_summary = self.text_summary_service.handle("Тестовый текст",
+                                                      useV2=False)
+        # Assert
         self.assertEqual(ru_summary, "Тестовый конспект")
 
 
