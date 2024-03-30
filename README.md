@@ -23,7 +23,7 @@
 ## Начало работы
 > [!TIP]
 > Для удобства тестирования можно открыть в Streamlit Cloud:
-> [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://groupthreeproject-mggv8utp2jmo9wfbybbfdf.streamlit.app/))
+> [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://groupthreeproject-wywhworkrhcsvmhqs5ycs2.streamlit.app/))
 
 1. Настройки для локального запуска проекта:
 > [!IMPORTANT]
