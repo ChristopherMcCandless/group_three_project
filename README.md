@@ -23,7 +23,7 @@
 ## Начало работы
 > [!TIP]
 > Для удобства тестирования можно открыть в Streamlit Cloud:
-> [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://groupsixproject-8e6rvezdfhfdjqxjrdzft8.streamlit.app/)
+> [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://groupthreeproject-mggv8utp2jmo9wfbybbfdf.streamlit.app/))
 
 1. Настройки для локального запуска проекта:
 > [!IMPORTANT]
@@ -54,10 +54,12 @@
 ## Команда
 
 ```
-Менеджер проекта, аналитик данных – Кузнецов Иван
-Инженер по машинному обучению, Full Stack-разработчик – Казанцев Александр
-Тестировщик – Спивак Дмитрий
-Документалист/технический писатель – Граб Яков
+Аналитик данных – Ластин Максим
+Инженер по машинному обучению - Красильников Михаил
+Full Stack-разработчик – Казанцев Александр
+Тестировщик – Граб Яков
+Документалист/технический писатель – Кузнецов Иван
+
 ```
 
 ## Лицензия
