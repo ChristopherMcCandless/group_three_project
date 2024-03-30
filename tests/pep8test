@@ -1,0 +1,4 @@
+pep8 src/web/main.py
+pep8 src/services/text_summary_service.py
+pep8 src/models/translator.py
+pep8 src/models/summarizer.py
