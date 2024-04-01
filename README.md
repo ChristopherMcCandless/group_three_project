@@ -23,8 +23,8 @@
 ## Начало работы
 > [!TIP]
 > Для удобства тестирования можно открыть в Streamlit Cloud:
-> [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://groupthreeproject-wywhworkrhcsvmhqs5ycs2.streamlit.app/))
-
+> [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://groupthreeproject-tdoz7rzrw3ji3je6rde2ao.streamlit.app/))
+ 
 1. Настройки для локального запуска проекта:
 > [!IMPORTANT]
 > *Перед началом работы создайте папку на вашем компьютере под управлением ОС Linux, которая будет содержать проект. Для этого выполните следующие команды в Вашем терминале:*
